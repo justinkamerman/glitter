@@ -33,3 +33,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# Node.js Related Ignores
+web/node_modules/
+web/public/assets/
+
+# Webstorm Related Ignores
+.idea/
