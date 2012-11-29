@@ -1,0 +1,214 @@
+{
+  "tweet": {
+    "text": "Congratulations to the recent Kaggle competition winners! The top three were all graduates of Andrew's ML course. \nhttp://t.co/31nJMKju", 
+    "retweet_count": 25, 
+    "id": 257899063062695936, 
+    "author": 352053266
+  }, 
+  "nodes": [
+    {
+      "followers_count": 47725, 
+      "id": 352053266, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2403795786/22jemjufucxprse87g9r_normal.jpeg", 
+      "screen_name": "coursera"
+    }, 
+    {
+      "followers_count": 99, 
+      "id": 41209930, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2700908418/568cf5fcad6a4ec3d1d8df5b7a4db0de_normal.png", 
+      "screen_name": "LetitiaLew"
+    }, 
+    {
+      "followers_count": 139, 
+      "id": 73541408, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1391209547/Photo_11-06-11_07_40_49_normal.jpeg", 
+      "screen_name": "ArturoSaCo"
+    }, 
+    {
+      "followers_count": 886, 
+      "id": 33836629, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1109047021/MELOL2_normal.jpg", 
+      "screen_name": "karpathy"
+    }, 
+    {
+      "followers_count": 79, 
+      "id": 162725701, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1414419053/1_normal.jpg", 
+      "screen_name": "sergey_tihon"
+    }, 
+    {
+      "followers_count": 114, 
+      "id": 27096627, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/911005685/rstonkus_normal.png", 
+      "screen_name": "rstonkus"
+    }, 
+    {
+      "followers_count": 4006, 
+      "id": 80422885, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1146317507/twitter_normal.png", 
+      "screen_name": "kaggle"
+    }, 
+    {
+      "followers_count": 44, 
+      "id": 317963737, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1397529299/x_2e88994c_normal.jpg", 
+      "screen_name": "ulyantsev"
+    }, 
+    {
+      "followers_count": 19, 
+      "id": 737894706, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2626047172/gdjod5zcbdbl9htkupik_normal.png", 
+      "screen_name": "CourseTalk"
+    }, 
+    {
+      "followers_count": 471, 
+      "id": 299672608, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2651510897/73ad6ac40f0d6bc94ffb569779e6ade8_normal.jpeg", 
+      "screen_name": "Ternz"
+    }, 
+    {
+      "followers_count": 44, 
+      "id": 554379578, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2147525036/2011-07-11_18.17.50_normal.jpg", 
+      "screen_name": "FeliceVitulano"
+    }, 
+    {
+      "followers_count": 222, 
+      "id": 39048696, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1221722685/Profile_Picture__Square__normal.jpg", 
+      "screen_name": "rushafi"
+    }, 
+    {
+      "followers_count": 115, 
+      "id": 152947306, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2074195524/3cf7f15_normal.jpg", 
+      "screen_name": "I_Ribners"
+    }, 
+    {
+      "followers_count": 118, 
+      "id": 15607470, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2270997660/image_normal.jpg", 
+      "screen_name": "pkxh"
+    }, 
+    {
+      "followers_count": 272, 
+      "id": 153355037, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1756570898/me_normal.png", 
+      "screen_name": "iUmmae"
+    }, 
+    {
+      "followers_count": 0, 
+      "id": 424133545, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2641594575/3c520a3d4b556d2bb56c3354b4277c03_normal.jpeg", 
+      "screen_name": "courserista"
+    }, 
+    {
+      "followers_count": 27, 
+      "id": 113750588, 
+      "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png", 
+      "screen_name": "FireJade0"
+    }, 
+    {
+      "followers_count": 894, 
+      "id": 19354604, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/72559145/P1010325_normal.jpg", 
+      "screen_name": "alexey_r"
+    }, 
+    {
+      "followers_count": 46, 
+      "id": 22647312, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/368077772/kyungup2_normal.jpg", 
+      "screen_name": "phoxis"
+    }, 
+    {
+      "followers_count": 367, 
+      "id": 21245036, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/769060907/bigo_normal.jpg", 
+      "screen_name": "bigodines"
+    }, 
+    {
+      "followers_count": 86, 
+      "id": 58171264, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1545308313/avatar_68123c563ba0_128_square140_normal.png", 
+      "screen_name": "michael_platzer"
+    }
+  ], 
+  "links": [
+    {
+      "source": 0, 
+      "target": 1
+    }, 
+    {
+      "source": 0, 
+      "target": 2
+    }, 
+    {
+      "source": 0, 
+      "target": 3
+    }, 
+    {
+      "source": 0, 
+      "target": 4
+    }, 
+    {
+      "source": 0, 
+      "target": 5
+    }, 
+    {
+      "source": 0, 
+      "target": 6
+    }, 
+    {
+      "source": 0, 
+      "target": 7
+    }, 
+    {
+      "source": 0, 
+      "target": 8
+    }, 
+    {
+      "source": 0, 
+      "target": 9
+    }, 
+    {
+      "source": 0, 
+      "target": 10
+    }, 
+    {
+      "source": 0, 
+      "target": 11
+    }, 
+    {
+      "source": 0, 
+      "target": 12
+    }, 
+    {
+      "source": 0, 
+      "target": 13
+    }, 
+    {
+      "source": 0, 
+      "target": 14
+    }, 
+    {
+      "source": 0, 
+      "target": 15
+    }, 
+    {
+      "source": 0, 
+      "target": 16
+    }, 
+    {
+      "source": 0, 
+      "target": 17
+    }, 
+    {
+      "source": 0, 
+      "target": 18
+    }, 
+    {
+      "source": 6, 
+      "target": 19
+    }
+  ]
+}

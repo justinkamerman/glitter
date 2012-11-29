@@ -1,0 +1,218 @@
+{
+  "tweet": {
+    "text": "Become a Data Scientist: Learn the theory and practice of Data Science @GA through a 10-week intensive http://t.co/lqmVf7F6", 
+    "retweet_count": 20, 
+    "id": 253127562639835136, 
+    "author": 11069462
+  }, 
+  "nodes": [
+    {
+      "followers_count": 50868, 
+      "id": 11069462, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1765645737/oreilly-social-icon_normal.png", 
+      "screen_name": "OReillyMedia"
+    }, 
+    {
+      "followers_count": 6825, 
+      "id": 36741547, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1769507629/image1327099720_normal.png", 
+      "screen_name": "PrivacyCamp"
+    }, 
+    {
+      "followers_count": 3949, 
+      "id": 18165865, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2645496558/dba57c7e3a834cbd52f4afcc0c2c7475_normal.png", 
+      "screen_name": "IsCool"
+    }, 
+    {
+      "followers_count": 4128, 
+      "id": 5663042, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2553117912/2ziokez75jvl3ee9blgu_normal.png", 
+      "screen_name": "cwoodruff"
+    }, 
+    {
+      "followers_count": 660, 
+      "id": 45507598, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1822205150/308601_10150840785090282_690315281_21118848_1920253050_n_normal.jpg", 
+      "screen_name": "emwhytee"
+    }, 
+    {
+      "followers_count": 650, 
+      "id": 71354614, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2559566798/94l53dtjnvrjxdsv4st6_normal.png", 
+      "screen_name": "jwsgt"
+    }, 
+    {
+      "followers_count": 9022, 
+      "id": 167169119, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1167967417/Strata_twitter_logo_normal.png", 
+      "screen_name": "strataconf"
+    }, 
+    {
+      "followers_count": 605, 
+      "id": 534563976, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1938885483/kborne_normal.jpg", 
+      "screen_name": "KirkDBorne"
+    }, 
+    {
+      "followers_count": 107, 
+      "id": 412429880, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2617248833/9ybhkxl37o67wdzvx3ps_normal.jpeg", 
+      "screen_name": "davidhmcguire"
+    }, 
+    {
+      "followers_count": 2332, 
+      "id": 17292556, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/64068413/Dakin_Shaun_WEB_normal.jpg", 
+      "screen_name": "shaundakin"
+    }, 
+    {
+      "followers_count": 709, 
+      "id": 18873177, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/70647981/Dakin_Shaun_WEB_normal.jpg", 
+      "screen_name": "DakinMarketing"
+    }, 
+    {
+      "followers_count": 990, 
+      "id": 29649822, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1668960352/Krish_2011_Pic_normal.jpg", 
+      "screen_name": "datagenius"
+    }, 
+    {
+      "followers_count": 174, 
+      "id": 23417129, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1292760515/mark_normal.jpg", 
+      "screen_name": "MColebrook"
+    }, 
+    {
+      "followers_count": 36, 
+      "id": 177177660, 
+      "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_2_normal.png", 
+      "screen_name": "addcolour"
+    }, 
+    {
+      "followers_count": 109, 
+      "id": 14677113, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1633076914/Profile2_normal.jpg", 
+      "screen_name": "Matt_Owens"
+    }, 
+    {
+      "followers_count": 352, 
+      "id": 17333024, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1772634172/furqan_normal.jpg", 
+      "screen_name": "FurqanR"
+    }, 
+    {
+      "followers_count": 15358, 
+      "id": 170393291, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1773473854/image1327253887_normal.png", 
+      "screen_name": "GA"
+    }, 
+    {
+      "followers_count": 3464, 
+      "id": 15857062, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2703761428/85120b3510f261c3a2b7fb0fba43710e_normal.jpeg", 
+      "screen_name": "brimer"
+    }, 
+    {
+      "followers_count": 31, 
+      "id": 344461769, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2514651458/o4m2dgki2gc1rb9aztfy_normal.jpeg", 
+      "screen_name": "dwaterfield"
+    }, 
+    {
+      "followers_count": 563, 
+      "id": 16122876, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2689061798/f1171ef38e511c0665c5211d25f33e9d_normal.png", 
+      "screen_name": "bethmaru"
+    }, 
+    {
+      "followers_count": 126, 
+      "id": 240726194, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2190819851/the-credible-hulk_normal.jpg", 
+      "screen_name": "nextlibris"
+    }
+  ], 
+  "links": [
+    {
+      "source": 0, 
+      "target": 1
+    }, 
+    {
+      "source": 0, 
+      "target": 2
+    }, 
+    {
+      "source": 0, 
+      "target": 3
+    }, 
+    {
+      "source": 0, 
+      "target": 4
+    }, 
+    {
+      "source": 0, 
+      "target": 5
+    }, 
+    {
+      "source": 0, 
+      "target": 6
+    }, 
+    {
+      "source": 0, 
+      "target": 7
+    }, 
+    {
+      "source": 0, 
+      "target": 8
+    }, 
+    {
+      "source": 1, 
+      "target": 9
+    }, 
+    {
+      "source": 2, 
+      "target": 10
+    }, 
+    {
+      "source": 6, 
+      "target": 11
+    }, 
+    {
+      "source": 6, 
+      "target": 12
+    }, 
+    {
+      "source": 6, 
+      "target": 13
+    }, 
+    {
+      "source": 6, 
+      "target": 14
+    }, 
+    {
+      "source": 11, 
+      "target": 15
+    }, 
+    {
+      "source": 14, 
+      "target": 16
+    }, 
+    {
+      "source": 16, 
+      "target": 17
+    }, 
+    {
+      "source": 16, 
+      "target": 18
+    }, 
+    {
+      "source": 16, 
+      "target": 19
+    }, 
+    {
+      "source": 19, 
+      "target": 20
+    }
+  ]
+}

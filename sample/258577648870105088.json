@@ -1,0 +1,168 @@
+{
+  "tweet": {
+    "text": "Overfitting presidential election data http://t.co/czMJUYY4 via @cmastication", 
+    "retweet_count": 15, 
+    "id": 258577648870105088, 
+    "author": 220139885
+  }, 
+  "nodes": [
+    {
+      "followers_count": 13323, 
+      "id": 220139885, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1176432323/Product_normal.png", 
+      "screen_name": "StatFact"
+    }, 
+    {
+      "followers_count": 37, 
+      "id": 394770831, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1598105026/statisticslogov_normal.png", 
+      "screen_name": "StatsUMan"
+    }, 
+    {
+      "followers_count": 841, 
+      "id": 144502125, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2674971806/2c44a460ff308732529d63ceae5d64b7_normal.jpeg", 
+      "screen_name": "LongTermGreed"
+    }, 
+    {
+      "followers_count": 41, 
+      "id": 11962252, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/205800633/little_me_normal.jpg", 
+      "screen_name": "tarekisfree"
+    }, 
+    {
+      "followers_count": 433, 
+      "id": 16419348, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1386156184/270172f_normal.jpg", 
+      "screen_name": "jjgibaja"
+    }, 
+    {
+      "followers_count": 1535, 
+      "id": 15894774, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2712059055/42d04720501371235b5af3113f2fe917_normal.jpeg", 
+      "screen_name": "stianlud"
+    }, 
+    {
+      "followers_count": 103, 
+      "id": 57190069, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1639746706/Image_12_normal.png", 
+      "screen_name": "johnsarealtwit"
+    }, 
+    {
+      "followers_count": 134, 
+      "id": 98906985, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1493924850/Photo_on_2011-04-09_at_16.38__3_normal.jpg", 
+      "screen_name": "anactivemind"
+    }, 
+    {
+      "followers_count": 18, 
+      "id": 80157513, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1896514093/headshot-web_normal.jpg", 
+      "screen_name": "jkamerman"
+    }, 
+    {
+      "followers_count": 119, 
+      "id": 29962384, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2477788524/htdvladim5jxuhp3gi1y_normal.jpeg", 
+      "screen_name": "segmenta"
+    }, 
+    {
+      "followers_count": 113, 
+      "id": 313410095, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1387587269/2011-06-08_1619_normal.png", 
+      "screen_name": "MrDoddsJ"
+    }, 
+    {
+      "followers_count": 142, 
+      "id": 138283502, 
+      "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_0_normal.png", 
+      "screen_name": "orlandomezquita"
+    }, 
+    {
+      "followers_count": 52, 
+      "id": 349224412, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2388943948/kh333dujutwq7mjbnmbb_normal.jpeg", 
+      "screen_name": "lmichelbacher"
+    }, 
+    {
+      "followers_count": 184, 
+      "id": 5781402, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2701005146/5c24e6cbbd962994f375e4f07652893e_normal.jpeg", 
+      "screen_name": "jmcyap"
+    }, 
+    {
+      "followers_count": 184, 
+      "id": 78960056, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1899392526/image_normal.jpg", 
+      "screen_name": "Owain_"
+    }, 
+    {
+      "followers_count": 128, 
+      "id": 208710975, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1444422838/me_ukulele_normal.jpg", 
+      "screen_name": "LiamToTheDuncan"
+    }
+  ], 
+  "links": [
+    {
+      "source": 0, 
+      "target": 1
+    }, 
+    {
+      "source": 0, 
+      "target": 2
+    }, 
+    {
+      "source": 0, 
+      "target": 3
+    }, 
+    {
+      "source": 0, 
+      "target": 4
+    }, 
+    {
+      "source": 0, 
+      "target": 5
+    }, 
+    {
+      "source": 0, 
+      "target": 6
+    }, 
+    {
+      "source": 0, 
+      "target": 7
+    }, 
+    {
+      "source": 0, 
+      "target": 8
+    }, 
+    {
+      "source": 0, 
+      "target": 9
+    }, 
+    {
+      "source": 0, 
+      "target": 10
+    }, 
+    {
+      "source": 0, 
+      "target": 11
+    }, 
+    {
+      "source": 0, 
+      "target": 12
+    }, 
+    {
+      "source": 0, 
+      "target": 13
+    }, 
+    {
+      "source": 0, 
+      "target": 14
+    }, 
+    {
+      "source": 14, 
+      "target": 15
+    }
+  ]
+}
