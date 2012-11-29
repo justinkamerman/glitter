@@ -1,0 +1,70 @@
+body {
+  background-color: #252929;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar .navbar-inner {
+  padding: 0 20px;
+}
+
+#visualization {
+  position: absolute;
+  z-index: 1;
+  top: 200px;
+  bottom: 0;
+  width: 100%;
+
+  .force-directed-graph {
+    height: 100%;
+  }
+}
+
+#tweet {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  right: 0;
+  width: 100%;
+  box-sizing: border-box;
+
+  #tweet-content {
+    padding: 2em;
+    margin: 2em;
+    background-color: rgba(255, 255, 255, 0.9);
+
+    .select2-container {
+      width: 100%;
+    }
+  }
+}
+
+.link {
+  stroke: #FAFAFA;
+}
+
+.node {
+  cursor:pointer;
+}
+
+.node.hover {
+  fill: #FAFAFA !important;
+}
+
+.node.childHover {
+  fill: #fafafa !important;
+  stroke-width: 2;
+}
+
+.node.parentHover {
+  fill: #252929 !important;
+  stroke-width: 2;
+}
+
+.nodetext {
+  fill:#E1FAFA;
+  font-size:14px;
+}
+.nodetext.shadow {
+  fill:#252929;
+}

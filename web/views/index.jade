@@ -1,0 +1,25 @@
+!!! 5
+//if lt IE 7
+  html.no-js.ie6.oldie(lang='en', ng-app="retweet")
+//if IE 7
+  html.no-js.ie7.oldie(lang='en', ng-app="retweet")
+//if IE 8
+  html.no-js.ie8.oldie(lang='en', ng-app="retweet")
+//[if gt IE 8]><!
+html.no-js(lang='en', ng-app="retweet")
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge,chrome=1')
+    title=title
+    meta(name="viewport", content='width=device-width, initial-scale=1')
+    != nap.css('all')
+  body(ng-controller="VisualizationController")
+    #visualization
+      force-directed-graph(data="data")
+    #tweet
+      #tweet-content
+        h1 Retweet Visualization - @Benioff
+        select(ng-model="selectedRetweets", ng-multiple="true", ui-select2="selectOptions")
+          option(ng-repeat="retweet in retweets", value="{{retweet.tweet.id}}") {{retweet.tweet.text}}
+    script(type="text/javascript") var retweets = !{retweets};
+    != nap.js('all')
