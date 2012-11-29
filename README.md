@@ -1,7 +1,7 @@
 glitter
 =======
 
-![Sample Visualization](https://github.com/justinkamerman/glitter/master/sample/benioff.png)
+![Sample Visualization](http://justinkamerman.github.com/glitter/images/benioff.png)
 
 Motivation
 ----------
