@@ -13,7 +13,9 @@ window.VisualizationController = class VisualizationController
     , true
 
   _updateData: ->
-    @scope.data = @_mergeData(@_getSelectedRetweets())
+    update = @_mergeData(@_getSelectedRetweets())
+    update = @_calculateDistancesFromOrigin(update)
+    @scope.data = update
 
   _getSelectedRetweets: ->
     (@_findRetweetById(selectedId) for selectedId in @scope.selectedRetweets || [])
@@ -27,5 +29,8 @@ window.VisualizationController = class VisualizationController
     merger = new TweetMerge()
     merger.add(retweet) for retweet in retweets
     merger.merge()
+
+  _calculateDistancesFromOrigin: (retweets) ->
+    new DistanceFromOrigin(retweets).calculateDistancesFromOrigin()
 
 VisualizationController.$inject = ['$scope', '$window']

@@ -10,8 +10,10 @@ basePath = '.';
 files = [
   JASMINE,
   JASMINE_ADAPTER,
-  'public/js/tweet_merge_test.coffee',
-  'test/*.coffee'
+  'public/js/tweet_merge.coffee',
+  'public/js/distance_from_origin.coffee',
+  'test/fixtures/*.coffee',
+  'test/unit/*.coffee'
 ];
 
 

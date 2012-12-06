@@ -4,6 +4,7 @@ window.ForceDirectedGraph = class ForceDirectedGraph
     @data = {}
     @reach = 0
     @scale = 1
+    @colors = d3.scale.category10();
     @_initializeGraph()
     @_drawGraph()
 
@@ -61,7 +62,8 @@ window.ForceDirectedGraph = class ForceDirectedGraph
     1.5 * Math.log(d.followers_count || 1)
 
   _nodeColor: (d) =>
-    d3.hsl(@_calculateSize(d) * 300, 0.7, 0.725)
+    #d3.hsl(@_calculateSize(d) * 300, 0.7, 0.725)
+    @colors(d.distance)
 
   _onNodeMouseover: (d, node) =>
     @textTarget = d

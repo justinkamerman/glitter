@@ -50,6 +50,7 @@ nap({
         '/public/vendor/select2/select2.js'
         '/public/js/visualization_controller.coffee'
         '/public/js/tweet_merge.coffee'
+        '/public/js/distance_from_origin.coffee'
         '/public/js/force_directed_graph.coffee'
         '/public/js/application.coffee'
       ]
