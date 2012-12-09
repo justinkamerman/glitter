@@ -1,0 +1,104 @@
+{
+  "tweet": {
+    "text": "Approaching the Hiring of Engineers as a Machine Learning Problem http://t.co/5zukt8MG", 
+    "retweet_count": 9, 
+    "id": 258468876491317248, 
+    "author": 9316452
+  }, 
+  "nodes": [
+    {
+      "followers_count": 1805, 
+      "id": 9316452, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2578574371/s2upxyv334n25ez611xn_normal.jpeg", 
+      "screen_name": "xamat"
+    }, 
+    {
+      "followers_count": 9294, 
+      "id": 14344469, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1767460655/pete_skomoroch_normal.jpg", 
+      "screen_name": "peteskomoroch"
+    }, 
+    {
+      "followers_count": 152, 
+      "id": 158759519, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1551282061/Portrait_Thomas_normal.JPG", 
+      "screen_name": "ThomasCabrol"
+    }, 
+    {
+      "followers_count": 56, 
+      "id": 191778885, 
+      "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_4_normal.png", 
+      "screen_name": "yangpengg"
+    }, 
+    {
+      "followers_count": 88, 
+      "id": 41824684, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/780877929/5413_1180084378757_1127592301_561445_581149_n_normal.jpg", 
+      "screen_name": "erikvdp"
+    }, 
+    {
+      "followers_count": 225, 
+      "id": 14406560, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2696146742/f922a3a098c51e60493119c5b152f932_normal.jpeg", 
+      "screen_name": "sandeepsabnani"
+    }, 
+    {
+      "followers_count": 45, 
+      "id": 442991688, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2715707198/efaa14c2555087c6c73e43803f927ed0_normal.jpeg", 
+      "screen_name": "EmanuelaBoros"
+    }, 
+    {
+      "followers_count": 84, 
+      "id": 630206666, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/2378894985/zieev8itf5j4nfqqiadv_normal.jpeg", 
+      "screen_name": "Tsourolampis"
+    }, 
+    {
+      "followers_count": 51, 
+      "id": 20685671, 
+      "profile_image_url": "http://a0.twimg.com/profile_images/1290544743/2011-03-16_Peter_M_2_normal.JPG", 
+      "screen_name": "pmueller"
+    }, 
+    {
+      "followers_count": 13, 
+      "id": 323505526, 
+      "profile_image_url": "http://a0.twimg.com/sticky/default_profile_images/default_profile_1_normal.png", 
+      "screen_name": "tw_top_1z143if"
+    }
+  ], 
+  "links": [
+    {
+      "source": 0, 
+      "target": 1
+    }, 
+    {
+      "source": 0, 
+      "target": 2
+    }, 
+    {
+      "source": 0, 
+      "target": 3
+    }, 
+    {
+      "source": 1, 
+      "target": 4
+    }, 
+    {
+      "source": 1, 
+      "target": 5
+    }, 
+    {
+      "source": 1, 
+      "target": 6
+    }, 
+    {
+      "source": 1, 
+      "target": 7
+    }, 
+    {
+      "source": 1, 
+      "target": 8
+    }
+  ]
+}
